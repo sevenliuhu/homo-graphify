@@ -191,6 +191,18 @@ graphify explain "依赖注入"
 MIT License — 基于 [graphify](https://github.com/safishamsi/graphify) (MIT, © Safi Shamsi)
 
 
+
+
+---
+
+## ⭐ Star 解锁专属工具
+
+给本仓库点 Star，即可前往解锁页面获取独家数据/工具/模板：
+
+👉 [**https://sevenliuhu.github.io/Homo-Ai/unlock.html**](https://sevenliuhu.github.io/Homo-Ai/unlock.html)
+
+内容包括：A股量化模板 / 反爬指纹规则集 / 134技能索引 / 记忆系统配置 / 电商SKILL模板 / 中国风设计色板 等 12 份独家资源。
+
 ## 🤝 需要定制开发？
 
 我们提供基于此项目的商业增强版和企业定制服务。
