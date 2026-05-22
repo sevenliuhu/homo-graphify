@@ -26,7 +26,7 @@ graphify-out/
 | 🚀 **一键构建** | `homo-graphify extract .` 自动提取实体关系 |
 | 🇨🇳 **中文原生** | 完美支持中文变量名、注释、文档中的实体识别 |
 | 🤖 **国产 LLM** | 深度适配 DeepSeek、Kimi、通义千问、智谱 GLM、文心一言 |
-| 💰 **极致省钱** | DeepSeek API 约 $0.14/百万 tokens，Kimi 约 $0.74/百万 tokens |
+| 💰 **极致省钱** | DeepSeek API 约 请邮件咨询.14/百万 tokens，Kimi 约 请邮件咨询.74/百万 tokens |
 | 🏠 **完全离线** | 支持 Ollama 本地模型，零 API 费用 |
 | 🔌 **17 种平台** | Claude Code、Cursor、Gemini CLI、GitHub Copilot 等全支持 |
 
