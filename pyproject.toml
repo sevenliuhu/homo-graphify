@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "homo-graphify"
+version = "0.1.0"
+description = "📊 一键代码知识图谱 · 中文版 — 支持 DeepSeek/国产 LLM（基于 graphify 50k⭐）"
+readme = "README.md"
+license = { text = "MIT" }
+keywords = ["knowledge-graph", "chinese", "graphrag", "deepseek", "kimi", "qwen", "llm"]
+requires-python = ">=3.10"
+dependencies = [
+    "graphifyy>=0.8.0",
+]
+optional-dependencies = {
+    llm = ["openai>=1.0.0", "tiktoken"],
+    all = ["openai>=1.0.0", "tiktoken"],
+}
+
+[project.urls]
+Homepage = "https://github.com/sevenliuhu/homo-graphify"
+Repository = "https://github.com/sevenliuhu/homo-graphify"
+Issues = "https://github.com/sevenliuhu/homo-graphify/issues"
+
+[project.scripts]
+homo-graphify = "homo_graphify.__main__:main"
+
+[tool.setuptools]
+packages = ["homo_graphify"]
+include-package-data = false
